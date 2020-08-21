@@ -14,8 +14,7 @@
             android:value="barcode" />
         <activity
             android:theme="@style/AppTheme.NoActionBar"
-            android:name=".MaterialBarcodeScannerActivity"
-            android:label="@string/library_name" >
+            android:name=".MaterialBarcodeScannerActivity" >
         </activity>
     </application>
 </manifest>
